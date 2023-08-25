@@ -4,12 +4,12 @@ section {
 }
 
 .material-symbols-outlined {
-    border: 2px solid #40acbf;
+    border: 2px solid rgb(85, 211, 231);
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #40acbf;
+    color:  rgb(85, 211, 231);
     width: 50px;
     padding: 10px 0;
 }
